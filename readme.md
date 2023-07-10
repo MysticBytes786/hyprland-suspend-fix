@@ -1,4 +1,4 @@
-# This solution aims to resolve the issue, where Hyprland crashes when waking up.
+# This solution aims to resolve the issue where Hyprland crashes when waking up on systems with an NVIDIA GPU
 
 ### the problem
 
