@@ -6,7 +6,7 @@ Hyprland is attempting to communicate with the NVIDIA driver after it has alread
 
 ### the solution
 
-The solution is to manually suspend Hyprland using the STOP signal before the NVIDIA driver goes into suspend mode. Then use the CONT signal upon resuming.
+The solution is to manually suspend Hyprland using the **"STOP"** signal before the NVIDIA driver goes into suspend mode. Then use the **"CONT"** signal upon resuming.
 
 ## Solution Overview
 
