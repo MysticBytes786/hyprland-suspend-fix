@@ -17,6 +17,8 @@ The solution involves the following steps:
 2. Create systemd services `hyprland-suspend.service` and `hyprland-resume.service` to manage the suspension and resumption of Hyprland.
 
 3. Reload the systemd daemon and enable the newly created services.
+ 
+   *** ***[Click here for a script that automates the steps](suspend-hyprland-fix.sh)*** ***
 ---
 
 #### Step 1: Create the script
